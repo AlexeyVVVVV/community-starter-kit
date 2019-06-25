@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- this project helps to understand how github flow works
+- it is really helpful with first steps at github
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- dark mode
+- split window
 
 ## Getting started
 
